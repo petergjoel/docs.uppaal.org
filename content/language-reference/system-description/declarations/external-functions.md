@@ -8,6 +8,10 @@ weight: 30
   The feature is only officially supported on Linux.
 {{% /notice %}}
 
+{{% notice info %}}
+This feature is currently only supported in Uppaal Stratego 4.1.20-7 or later version of Uppaal Stratego.
+{{ /notice %}}
+
 External Functions can be decreated alongside other declaratios. External functions are local to the current scope, defined by the grammar: 
 
 ``` EBNF 
